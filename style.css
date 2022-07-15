@@ -1,0 +1,214 @@
+/* CSS files add styling rules to your content */
+
+body {
+    background-color:#ecddd0;
+     font-family: 'Fredoka One';
+     
+   text-align: center;
+   }
+   main {
+   text-align: center;
+     font-family: 'Fredoka One', regular;
+   }
+   .Fredbody{
+     color: #bf6b63;
+     font-size: 20px;
+     font-family: 'Nanum Pen Script', regular;
+     text-decoration:none;
+     
+   }
+   
+   h1 {
+     color: #bf6b63;
+     font-size: 2em;
+     font-family: 'Fredoka One', regular;
+   }
+   h2 {
+     color: #bf6b63;
+     font-size: 2em;
+     font-family: 'Baloo Thambi 2', regular;
+   }
+   .chinese {
+     color: #bf6b63;
+     font-size: 2em;
+     font-family: 'Liu Jian Mao Cao', regular;
+     margin-top: 10px;
+     margin-bottom: 5px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }
+   .blogHeading {
+     color: #bf6b63;
+     font-size: 2em;
+     font-family: 'kalam', regular;
+     margin-top: 10px;
+     margin-bottom: 5px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }.blogPostDate {
+     color: #bf6b63;
+     font-size: 1em;
+     font-family: 'Liu Jian Mao Cao', regular;
+     margin-top: 10px;
+     margin-bottom: 5px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }
+   .chineseBody {
+     color: #bf6b63;
+     font-size: 1em;
+     font-family: 'Liu Jian Mao Cao', regular;
+     margin-top: 10px;
+     margin-bottom: 30px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }
+   .footer {
+    color: #bf6b63;
+    font-size: 1em;
+    font-family: 'Liu Jian Mao Cao', regular;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+  }
+  #foot{
+    position: fixed;
+    bottom: 0px;
+    align-content: center; 
+    text-align: center;
+    width: auto;
+}
+   .date{
+     color: #bf6b63;
+     font-size: 1em;
+     font-family: 'Liu Jian Mao Cao', regular;
+     margin-top: 5px;
+     margin-bottom: 20px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }
+   .chineseQ {
+     color: #bf6b63;
+     font-size: 2em;
+     font-family: 'Liu Jian Mao Cao', regular;
+     margin-top: 60px;
+     margin-bottom: 60px;
+     margin-right: 100px;
+     margin-left: 100px;
+   }
+   p {
+     color: #bf6b63;
+     font-family: 'Baloo Thambi 2', regular;
+     margin-top: 60px;
+     margin-bottom: 60px;
+     margin-right: 200px;
+     margin-left: 200px;
+   }
+   
+   img {
+     text-align: center;
+     max-width: 50%
+   }
+   
+   a {
+     color: #bf6b63;
+     font-family: 'Fredoka One', regular;
+     cursor: pointer;
+   }
+   
+   ul{
+     list-style: none;
+   }
+   
+   ul.nav {
+     padding-left: 0px;
+     background-color: #bf6b63;
+     text-align: center;
+   }
+   ul.nav > li {
+     display: inline-block;
+     padding: 10px 20px;
+   }
+   ul.nav > li:hover {
+     background-color: #bf6b63;
+   }
+   ul.nav > li > a {
+     color: white;
+     text-decoration: none;
+     font-family: "Helvetica"
+    
+   }
+   .tab {
+    margin-left: 2.5em
+     
+   }
+   #q1a1 {
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   .BUTTON {
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   #poohOrTigger{
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 40px;
+   }
+   #q2a2 {
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   #q3a1 {
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   #q3a2 {
+    background-color: #ecddd0;
+    border: none;
+    color: #bf6b63;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Fredoka One', regular;
+    cursor: pointer;
+    font-size: 16px;
+   }
+   
+   
